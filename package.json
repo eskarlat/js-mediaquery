@@ -1,0 +1,31 @@
+{
+  "name": "@evgeny.skarlat/js-mediaquery",
+  "version": "1.0.2",
+  "description": "Helps to match and run custom scripts during the different resolution",
+  "main": "js-mediaquery.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eskarlat/js-mediaquery.git"
+  },
+  "keywords": [
+    "mediaquery",
+    "mediaqueries",
+    "responsive",
+    "breakpoints",
+    "step",
+    "media",
+    "css"
+  ],
+  "author": "Evgeny Skarlat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eskarlat/js-mediaquery/issues"
+  },
+  "homepage": "https://github.com/eskarlat/js-mediaquery#readme"
+}
